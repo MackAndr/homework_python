@@ -87,3 +87,5 @@ elif numberTask == 3:
     task3()
 elif numberTask == 4:
     task4()
+else:
+    print ('неправильно введен номер задачи')
