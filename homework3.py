@@ -8,13 +8,12 @@
 #     else:
 #         return fib(n-1) + fib(n-2)
 
-# list = []
-# N = int(input('Введите N: '))
-# for e in range(1, N+1):
-#     list.append(fib(e))
- 
-
 # def Task1():
+#     list = []
+#     N = int(input('Введите N: '))
+#     for e in range(1, N+1):
+#         list.append(fib(e))
+
 #     data = open ('fib.txt', 'w')
 #     for i in range (N):
 #         data.writelines(str(list[i]) + '\n')
